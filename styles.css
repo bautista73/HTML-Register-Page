@@ -1,0 +1,89 @@
+html {
+    background-color: #64b7ff
+}
+nav {
+    background-color: white;
+    border-bottom: groove #c5c5c5;
+    position: absolute;
+    width: 100vw;
+    height: 5vw;
+    left: 0;
+    top: 0;
+}
+.nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin: 20px 15px 10px 10px;
+    text-decoration: none;
+    background-color: #0080ff;
+    color: white;
+    border-radius: 3px;
+    border: solid 8px #0080ff;
+}
+.form-wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: white;
+    width: 22%;
+    margin: 0 auto; margin-top: 120px;
+    border: white; border-style: solid; border-width: 20px; border-radius: 5px;
+    
+    
+
+}
+label, input {
+    display:block;
+    margin: 0 auto 1em auto;
+    max-width: 100;
+    width: 90%;
+    height: 30px;
+    border-radius: 3px;
+
+}
+
+label {
+    margin-bottom: 20px;
+}
+
+#signup {
+    padding-right: 43%;
+}
+
+#submit-button {
+        background-color: #0080ff;
+        color: white;
+        width: 92%; height: 100%;
+        border-radius: 3px;
+        
+}
+
+#amaz {
+    margin-right: 8px;
+    height: 10%;
+    width: 10%;
+    
+}
+#face {
+    margin-right: 8px;
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+}
+#git {
+    margin-right: 8px;
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+}
+#slack {
+    margin-right: 8px;
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+}
+#insta {
+    margin-right: 8px;
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+}
